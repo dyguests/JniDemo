@@ -1,3 +1,5 @@
 # JniDemo
 
-A android demo for jni.
+branch/master  : Init.
+branch/JNIUtil : add simple demo.
+branch/JNIUtil : a image Filter.
